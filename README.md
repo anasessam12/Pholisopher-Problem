@@ -1,3 +1,3 @@
 # OS-Project
 
-OS-2 Project - Pholisopher Problem
+OS-2 Project - Pholisopher Problem multithrading gui
